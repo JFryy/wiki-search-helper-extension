@@ -4,7 +4,12 @@ This is a dead simple and basic extension that adds a context menu for highlight
 
 ### Examples
 *Context Menu*
+
+
 ![screenshot-1](https://raw.githubusercontent.com/JFryy/wiki-search-helper-extension/main/screenshots/screenshot-1.PNG)
 
+
 *Search Popup*
+
+
 ![screenshot-2](https://raw.githubusercontent.com/JFryy/wiki-search-helper-extension/main/screenshots/screenshot-2.PNG)
