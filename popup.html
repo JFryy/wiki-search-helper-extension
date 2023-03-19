@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wikipedia Search</title>
+    <style>
+      body {
+        padding: 10px;
+        background-color: #222;
+        color: #fff;
+        font-family: Arial, sans-serif;
+      }
+      form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+      }
+      #searchBox {
+        flex: 1;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        margin-right: 10px;
+        font-size: 16px;
+        background-color: #333;
+        color: #fff;
+      }
+      #searchButton {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #0078D7;
+        color: #FFFFFF;
+        font-size: 16px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s ease-in-out;
+      }
+      #searchButton:hover {
+        background-color: #005FB2;
+      }
+      #searchIcon {
+        width: 16px;
+        height: 16px;
+        margin-right: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <input type="text" id="searchBox" placeholder="Search Wikipedia">
+      <button type="submit" id="searchButton">
+        <img id="searchIcon" src="icon.png" alt="Search icon">
+        Search
+      </button>
+    </form>
+    <script src="popup.js"></script>
+  </body>
+</html>
