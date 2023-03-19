@@ -3,5 +3,5 @@ This is a dead simple and basic extension that adds a context menu for highlight
 
 
 ### Examples
-![screenshot-1]("./screenshots/screenshot-1.PNG")
-![screenshot-2]("./screenshots/screenshot-2.PNG")
+![screenshot-1](https://raw.githubusercontent.com/JFryy/wiki-search-helper-extension/main/screenshots/screenshot-1.PNG)
+![screenshot-2](https://raw.githubusercontent.com/JFryy/wiki-search-helper-extension/main/screenshots/screenshot-2.PNG)
