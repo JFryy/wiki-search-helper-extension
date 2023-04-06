@@ -1,5 +1,5 @@
 ## Wikipedia Search Extension Helper
-This is a dead simple and basic extension that adds a context menu for highlighted text to search in wikepdia and additionally adds a popup menu for wikipedia searching. A small project made in an hour or two for fun (I have not made an extension before). The results are opened within a new tab. Published to google extension store.
+This is a basic extension that adds a context menu for highlighted text to search in wikepdia and additionally adds a popup menu for wikipedia searching. A small project made in an hour or two for fun (I have not made a chrome extension before). The results are opened within a new tab. Published to google extension store, there are probably better extensions that do the same thing.
 
 
 ### Examples
